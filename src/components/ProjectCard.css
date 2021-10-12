@@ -1,0 +1,33 @@
+.ProjectCard {
+  display: flex;
+  width: 10vw;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: #282c34 1px solid;
+}
+
+.ProjectCard-title {
+  background-color: #282c34;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  height: 2em;
+  color: white;
+  width: 100%;
+}
+
+.ProjectCard-img {
+  margin: 1em 0;
+}
+
+.ProjectCard-desc {
+  color: white;
+  width: 100%;
+  background-color: #282c34;
+  text-align: center;
+  margin: 0;
+}
+
+

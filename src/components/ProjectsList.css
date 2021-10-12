@@ -1,0 +1,14 @@
+.ProjectsList {
+  padding: 0 2em;
+}
+
+.ProjectsList h2{
+  width:100%;
+  text-align: center;
+}
+
+.ProjectsList-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
